@@ -1,7 +1,7 @@
 {
   "name": "@rstacruz/prettier-plugin-markdown-code-fences",
   "description": "Converts indented code blocks into fenced code blocks",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
   "bugs": {
     "url": "https://github.com/rstacruz/prettier-plugin-markdown-code-fences/issues"
